@@ -1,1 +1,1 @@
-# sugans2002.github.io
+<?php include 'index.html';?>
